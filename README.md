@@ -12,3 +12,12 @@ Victor Acuña,  apasionado por  la tecnología, los  asados  de los fines de sem
 Jeremias Viñas, locutor. Aficionado al arte plastico, la música y consumidor ferviente de las .com
 
 Álvaro Echegaray, Estudiante, apasionado por el deporte y la tecnología.
+
+5 REFERENTES:
+-MERCADOLIBRE
+-LIBRE OPCIÓN
+-FACEBOOK MARKETPLACE
+-OLX
+-GOOD GAME
+
+
