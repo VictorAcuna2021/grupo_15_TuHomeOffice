@@ -8,3 +8,5 @@ Publico objetivo : Toda persona que debido a esta pandemia tuvo que empezar a tr
 
 Integrantes:
 Victor Acuña,  apasionado por  la tecnología, los  asados  de los fines de semana
+
+Jeremias Viñas, locutor. Aficionado al arte plastico, la música y consumidor ferviente de las .com
