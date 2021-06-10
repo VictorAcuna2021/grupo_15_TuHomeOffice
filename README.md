@@ -13,11 +13,11 @@ Jeremias Viñas, locutor. Aficionado al arte plastico, la música y consumidor f
 
 Álvaro Echegaray, Estudiante, apasionado por el deporte y la tecnología.
 
-5 REFERENTES:
+ REFERENTES: SIMILARES QUE POSEEN GARANTÍA DE SATISFACCIÓN DE ENTREGA Y MÁXIMOS EXPONENTES EN EL AMBITO DE LA VENTA ONLINE.
 -MERCADOLIBRE
 -LIBRE OPCIÓN
 -FACEBOOK MARKETPLACE
 -OLX
 -GOOD GAME
 
-
+Link wireframe: https://www.figma.com/file/GHmUQfYt9DBwgQbcHhkp0A/Tu-Home-Office?node-id=0%3A1
